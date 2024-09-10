@@ -1,6 +1,2 @@
-#nao fazer commit de __pycache__ e .vscode
-#.venv
-#*.pyc
-#comandos para nao fazer commit de arquivos
 ./.venv
 ./__pycache__
